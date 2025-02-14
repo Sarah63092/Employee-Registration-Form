@@ -1,0 +1,21 @@
+h1{
+    color:brown;
+    background-color: #A2CDB0;
+    border-style: outset;
+}
+*{
+    background-color:#ffeadd;
+}
+p{ 
+    color:brown;
+    text-decoration: overline;
+    font-weight: bolder;
+    border-style:initial
+}
+body{
+    text-align: left;
+}
+from{
+    background-color: #A2CDB0:
+}
+
